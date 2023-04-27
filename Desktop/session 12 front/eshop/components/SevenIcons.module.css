@@ -1,0 +1,18 @@
+.outerContainer{
+    width: 90%;
+    margin: 12px auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+.itemContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+}
+.label{
+    margin-top: 1em;
+font-size: 12px;
+}
